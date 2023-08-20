@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "EarthStrix",
+        "title": "Profile",
+        "content": "รูปภาพประวัติของนาย วราพล จิตสุข ผู้ที่นั่งเขียนโปรแกรมทั้งวัน\n หมายเลขประจำตัว 6430300862",
+        "profile": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/293487244_3277032765913228_2764726702069771781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExGYPH9L36t9Qxap6OkTUbQxWllhx3MQJDFaWWHHcxAmkRqRSrKLdc1Uv_vY1PmG_18IqsIVMB3xWz9NoUsCvo&_nc_ohc=DC-50Wqy610AX8y3JOF&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDrT2EjUYq_X7dJsgDTzjLaCrutoj2rJL6WY0vBTbogUA&oe=64E252D5",
+        "cover": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/231126078_1902789569875939_5217381126698578009_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGNWGnIPhXuW35Z-4wKwLxBhvtjexmme-eG-2N7GaZ759toDEsjEYGdJYdvp42mJWTuU-Hb-PnDkc_qGuZm61gV&_nc_ohc=IMadlNY2hwgAX-ggDQv&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfCz9wH_qnCBSdacJUJxAamtxse8kGQHnkf22dFvfROMZQ&oe=64E2279E",
+        "time": "17/08/2023"
+    },
+    {
+        "id": 2,
+        "name": "EarthStrix",
+        "title": "Introduction",
+        "content": "ผมชื่อนายวราพล จิตสุข นามปากกา EarthStrix อายุ 20 ปี เป็นโปรแกรมเมอร์บ้านๆ ชอบและสนใจ Computer Science และการเขียนโปรแกรม หลักๆของผมเลยคือทำเว็บไซต์และแอพลิเคชั่น",
+        "profile": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/293487244_3277032765913228_2764726702069771781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExGYPH9L36t9Qxap6OkTUbQxWllhx3MQJDFaWWHHcxAmkRqRSrKLdc1Uv_vY1PmG_18IqsIVMB3xWz9NoUsCvo&_nc_ohc=DC-50Wqy610AX8y3JOF&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDrT2EjUYq_X7dJsgDTzjLaCrutoj2rJL6WY0vBTbogUA&oe=64E252D5",
+        "cover": "",
+        "time": "17/08/2023"
+    },
+    {
+        "id": 3,
+        "name": "EarthStrix",
+        "title": "My Pet",
+        "content": "น้องหมา Samoyed จริงๆไม่ได้เลี้ยงหรอก ผมใส่มาเฉยๆ แต่อนาคตไม่แน่555",
+        "profile": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/293487244_3277032765913228_2764726702069771781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExGYPH9L36t9Qxap6OkTUbQxWllhx3MQJDFaWWHHcxAmkRqRSrKLdc1Uv_vY1PmG_18IqsIVMB3xWz9NoUsCvo&_nc_ohc=DC-50Wqy610AX8y3JOF&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDrT2EjUYq_X7dJsgDTzjLaCrutoj2rJL6WY0vBTbogUA&oe=64E252D5",
+        "cover": "https://images.pexels.com/photos/12424394/pexels-photo-12424394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "time": "17/08/2023"
+    },
+    {
+        "id": 4,
+        "name": "EarthStrix",
+        "title": "Hobbies",
+        "content": "เขียนโปรแกรม ทำเว็บ แอพและเกม หาโปรเจคทำ ศึกษานู้นนี้นั้น เล่นเกมกับเพื่อนใน Discord ดูซีรี่ย์และหนัง",
+        "profile": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/293487244_3277032765913228_2764726702069771781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExGYPH9L36t9Qxap6OkTUbQxWllhx3MQJDFaWWHHcxAmkRqRSrKLdc1Uv_vY1PmG_18IqsIVMB3xWz9NoUsCvo&_nc_ohc=DC-50Wqy610AX8y3JOF&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDrT2EjUYq_X7dJsgDTzjLaCrutoj2rJL6WY0vBTbogUA&oe=64E252D5",
+        "cover": "",
+        "time": "17/08/2023"
+    },
+    {
+        "id": 5,
+        "name": "EarthStrix",
+        "title": "Favorite Foods",
+        "content": "กะเพราหมูสับไข่ดาว ข้าวมันไก่ ข้าวไก่ทอด ย่าง และหมูกะทะ ส่วนใหญ่กินแต่ไก่กะหมู555",
+        "profile": "https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/293487244_3277032765913228_2764726702069771781_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeExGYPH9L36t9Qxap6OkTUbQxWllhx3MQJDFaWWHHcxAmkRqRSrKLdc1Uv_vY1PmG_18IqsIVMB3xWz9NoUsCvo&_nc_ohc=DC-50Wqy610AX8y3JOF&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfDrT2EjUYq_X7dJsgDTzjLaCrutoj2rJL6WY0vBTbogUA&oe=64E252D5",
+        "cover": "",
+        "time": "17/08/2023"
+    }
+]
